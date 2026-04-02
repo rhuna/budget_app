@@ -1,0 +1,60 @@
+{
+  "incomes": [
+    {
+      "name": "Main paycheck",
+      "weeklyAmount": 950.0
+    },
+    {
+      "name": "Side income",
+      "weeklyAmount": 150.0
+    }
+  ],
+  "recurringBills": [
+    {
+      "name": "Rent",
+      "amount": 1250.0,
+      "frequency": "Monthly",
+      "dueDay": 1,
+      "essential": true,
+      "autopay": true
+    },
+    {
+      "name": "Electric",
+      "amount": 140.0,
+      "frequency": "Monthly",
+      "dueDay": 12,
+      "essential": true,
+      "autopay": true
+    }
+  ],
+  "weeklyPlan": {
+    "weekLabel": "Week of April 1",
+    "extraDebtPayment": 50.0,
+    "emergencyFundContribution": 75.0,
+    "investingContribution": 40.0,
+    "categories": [
+      {
+        "name": "Groceries",
+        "planned": 120.0,
+        "spent": 80.0,
+        "essential": true
+      },
+      {
+        "name": "Gas",
+        "planned": 55.0,
+        "spent": 35.0,
+        "essential": true
+      },
+      {
+        "name": "Eating out",
+        "planned": 45.0,
+        "spent": 28.0,
+        "essential": false
+      }
+    ]
+  },
+  "emergencyFundBalance": 900.0,
+  "highInterestDebtBalance": 2200.0,
+  "checkingBalance": 640.0,
+  "savingsGoal": 3000.0
+}

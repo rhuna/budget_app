@@ -1,0 +1,13 @@
+build/
+.vscode/
+.idea/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.obj
+*.o
+*.exe
+*.dll
+*.so
+*.dylib
