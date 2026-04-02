@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/dev/budget_app/budget_app/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate"
+		},
+		{
+			"file" : "C:/dev/budget_app/budget_app/build/_deps/glfw-subbuild/CMakeFiles/d467e8155ce5d1b6ce85a09a969fe81e/glfw-populate.rule"
+		},
+		{
+			"file" : "C:/dev/budget_app/budget_app/build/_deps/glfw-subbuild/CMakeFiles/cf1cb29f03d3fd2e733a876260386ff7/glfw-populate-complete.rule"
+		},
+		{
+			"file" : "C:/dev/budget_app/budget_app/build/_deps/glfw-subbuild/CMakeFiles/c4c3a724337cee1cf34b6e00dbf4e3a2/glfw-populate-build.rule"
+		},
+		{
+			"file" : "C:/dev/budget_app/budget_app/build/_deps/glfw-subbuild/CMakeFiles/c4c3a724337cee1cf34b6e00dbf4e3a2/glfw-populate-configure.rule"
+		},
+		{
+			"file" : "C:/dev/budget_app/budget_app/build/_deps/glfw-subbuild/CMakeFiles/c4c3a724337cee1cf34b6e00dbf4e3a2/glfw-populate-download.rule"
+		},
+		{
+			"file" : "C:/dev/budget_app/budget_app/build/_deps/glfw-subbuild/CMakeFiles/c4c3a724337cee1cf34b6e00dbf4e3a2/glfw-populate-install.rule"
+		},
+		{
+			"file" : "C:/dev/budget_app/budget_app/build/_deps/glfw-subbuild/CMakeFiles/c4c3a724337cee1cf34b6e00dbf4e3a2/glfw-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/dev/budget_app/budget_app/build/_deps/glfw-subbuild/CMakeFiles/c4c3a724337cee1cf34b6e00dbf4e3a2/glfw-populate-patch.rule"
+		},
+		{
+			"file" : "C:/dev/budget_app/budget_app/build/_deps/glfw-subbuild/CMakeFiles/c4c3a724337cee1cf34b6e00dbf4e3a2/glfw-populate-test.rule"
+		},
+		{
+			"file" : "C:/dev/budget_app/budget_app/build/_deps/glfw-subbuild/CMakeFiles/c4c3a724337cee1cf34b6e00dbf4e3a2/glfw-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw-populate"
+		],
+		"name" : "glfw-populate"
+	}
+}

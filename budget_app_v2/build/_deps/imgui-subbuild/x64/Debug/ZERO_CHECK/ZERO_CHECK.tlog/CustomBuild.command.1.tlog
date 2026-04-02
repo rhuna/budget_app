@@ -1,0 +1,10 @@
+^C:\DEV\BUDGET_APP\BUDGET_APP_V2\BUILD\_DEPS\IMGUI-SUBBUILD\CMAKEFILES\64B01A5F4CF76989B98077E0C7288C05\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/dev/budget_app/budget_app_v2/build/_deps/imgui-subbuild -BC:/dev/budget_app/budget_app_v2/build/_deps/imgui-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/dev/budget_app/budget_app_v2/build/_deps/imgui-subbuild/imgui-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

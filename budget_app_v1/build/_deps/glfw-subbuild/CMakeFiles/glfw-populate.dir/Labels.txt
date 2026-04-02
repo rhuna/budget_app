@@ -1,0 +1,14 @@
+# Target labels
+ glfw-populate
+# Source files and their labels
+C:/dev/budget_app/budget_app/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+C:/dev/budget_app/budget_app/build/_deps/glfw-subbuild/CMakeFiles/d467e8155ce5d1b6ce85a09a969fe81e/glfw-populate.rule
+C:/dev/budget_app/budget_app/build/_deps/glfw-subbuild/CMakeFiles/cf1cb29f03d3fd2e733a876260386ff7/glfw-populate-complete.rule
+C:/dev/budget_app/budget_app/build/_deps/glfw-subbuild/CMakeFiles/c4c3a724337cee1cf34b6e00dbf4e3a2/glfw-populate-build.rule
+C:/dev/budget_app/budget_app/build/_deps/glfw-subbuild/CMakeFiles/c4c3a724337cee1cf34b6e00dbf4e3a2/glfw-populate-configure.rule
+C:/dev/budget_app/budget_app/build/_deps/glfw-subbuild/CMakeFiles/c4c3a724337cee1cf34b6e00dbf4e3a2/glfw-populate-download.rule
+C:/dev/budget_app/budget_app/build/_deps/glfw-subbuild/CMakeFiles/c4c3a724337cee1cf34b6e00dbf4e3a2/glfw-populate-install.rule
+C:/dev/budget_app/budget_app/build/_deps/glfw-subbuild/CMakeFiles/c4c3a724337cee1cf34b6e00dbf4e3a2/glfw-populate-mkdir.rule
+C:/dev/budget_app/budget_app/build/_deps/glfw-subbuild/CMakeFiles/c4c3a724337cee1cf34b6e00dbf4e3a2/glfw-populate-patch.rule
+C:/dev/budget_app/budget_app/build/_deps/glfw-subbuild/CMakeFiles/c4c3a724337cee1cf34b6e00dbf4e3a2/glfw-populate-test.rule
+C:/dev/budget_app/budget_app/build/_deps/glfw-subbuild/CMakeFiles/c4c3a724337cee1cf34b6e00dbf4e3a2/glfw-populate-update.rule

@@ -1,0 +1,10 @@
+^C:\DEV\BUDGET_APP\BUDGET_APP_V2\BUILD\CMAKEFILES\44264A5ECADB16BE61E52D56DBF6E040\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/dev/budget_app/budget_app_v2 -BC:/dev/budget_app/budget_app_v2/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/dev/budget_app/budget_app_v2/build/BudgetPilot.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
