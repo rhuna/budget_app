@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/imgui-subbuild/CMakeFiles/imgui-populate"
+		},
+		{
+			"file" : "C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/imgui-subbuild/CMakeFiles/8b23621d5559f8394abfd23dfeca18d9/imgui-populate.rule"
+		},
+		{
+			"file" : "C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/imgui-subbuild/CMakeFiles/d85c2f3cca90d2e8bb24faa01855a997/imgui-populate-complete.rule"
+		},
+		{
+			"file" : "C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/imgui-subbuild/CMakeFiles/2b055a38d9043c6a0fc52818e3dafd58/imgui-populate-build.rule"
+		},
+		{
+			"file" : "C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/imgui-subbuild/CMakeFiles/2b055a38d9043c6a0fc52818e3dafd58/imgui-populate-configure.rule"
+		},
+		{
+			"file" : "C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/imgui-subbuild/CMakeFiles/2b055a38d9043c6a0fc52818e3dafd58/imgui-populate-download.rule"
+		},
+		{
+			"file" : "C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/imgui-subbuild/CMakeFiles/2b055a38d9043c6a0fc52818e3dafd58/imgui-populate-install.rule"
+		},
+		{
+			"file" : "C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/imgui-subbuild/CMakeFiles/2b055a38d9043c6a0fc52818e3dafd58/imgui-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/imgui-subbuild/CMakeFiles/2b055a38d9043c6a0fc52818e3dafd58/imgui-populate-patch.rule"
+		},
+		{
+			"file" : "C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/imgui-subbuild/CMakeFiles/2b055a38d9043c6a0fc52818e3dafd58/imgui-populate-test.rule"
+		},
+		{
+			"file" : "C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/imgui-subbuild/CMakeFiles/2b055a38d9043c6a0fc52818e3dafd58/imgui-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"imgui-populate"
+		],
+		"name" : "imgui-populate"
+	}
+}

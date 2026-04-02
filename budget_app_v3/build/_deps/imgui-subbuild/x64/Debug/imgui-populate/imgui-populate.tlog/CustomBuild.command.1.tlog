@@ -1,0 +1,150 @@
+^C:\DEV\BUDGET_APP\BUDGET_APP\BUDGET_APP_V3\BUILD\_DEPS\IMGUI-SUBBUILD\CMAKEFILES\2B055A38D9043C6A0FC52818E3DAFD58\IMGUI-POPULATE-MKDIR.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -Dcfgdir=/Debug -P C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/imgui-subbuild/imgui-populate-prefix/tmp/imgui-populate-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/Debug/imgui-populate-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\DEV\BUDGET_APP\BUDGET_APP\BUDGET_APP_V3\BUILD\_DEPS\IMGUI-SUBBUILD\CMAKEFILES\2B055A38D9043C6A0FC52818E3DAFD58\IMGUI-POPULATE-DOWNLOAD.RULE
+setlocal
+cd C:\dev\budget_app\budget_app\budget_app_v3\build\_deps
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/imgui-subbuild/imgui-populate-prefix/tmp/imgui-populate-gitclone.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/Debug/imgui-populate-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\DEV\BUDGET_APP\BUDGET_APP\BUDGET_APP_V3\BUILD\_DEPS\IMGUI-SUBBUILD\CMAKEFILES\2B055A38D9043C6A0FC52818E3DAFD58\IMGUI-POPULATE-UPDATE.RULE
+setlocal
+cd C:\dev\budget_app\budget_app\budget_app_v3\build\_deps\imgui-src
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -Dcan_fetch=YES -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/imgui-subbuild/imgui-populate-prefix/tmp/imgui-populate-gitupdate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\DEV\BUDGET_APP\BUDGET_APP\BUDGET_APP_V3\BUILD\_DEPS\IMGUI-SUBBUILD\CMAKEFILES\2B055A38D9043C6A0FC52818E3DAFD58\IMGUI-POPULATE-PATCH.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/Debug/imgui-populate-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\DEV\BUDGET_APP\BUDGET_APP\BUDGET_APP_V3\BUILD\_DEPS\IMGUI-SUBBUILD\CMAKEFILES\2B055A38D9043C6A0FC52818E3DAFD58\IMGUI-POPULATE-CONFIGURE.RULE
+setlocal
+cd C:\dev\budget_app\budget_app\budget_app_v3\build\_deps\imgui-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/Debug/imgui-populate-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\DEV\BUDGET_APP\BUDGET_APP\BUDGET_APP_V3\BUILD\_DEPS\IMGUI-SUBBUILD\CMAKEFILES\2B055A38D9043C6A0FC52818E3DAFD58\IMGUI-POPULATE-BUILD.RULE
+setlocal
+cd C:\dev\budget_app\budget_app\budget_app_v3\build\_deps\imgui-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/Debug/imgui-populate-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\DEV\BUDGET_APP\BUDGET_APP\BUDGET_APP_V3\BUILD\_DEPS\IMGUI-SUBBUILD\CMAKEFILES\2B055A38D9043C6A0FC52818E3DAFD58\IMGUI-POPULATE-INSTALL.RULE
+setlocal
+cd C:\dev\budget_app\budget_app\budget_app_v3\build\_deps\imgui-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/Debug/imgui-populate-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\DEV\BUDGET_APP\BUDGET_APP\BUDGET_APP_V3\BUILD\_DEPS\IMGUI-SUBBUILD\CMAKEFILES\2B055A38D9043C6A0FC52818E3DAFD58\IMGUI-POPULATE-TEST.RULE
+setlocal
+cd C:\dev\budget_app\budget_app\budget_app_v3\build\_deps\imgui-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/Debug/imgui-populate-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\DEV\BUDGET_APP\BUDGET_APP\BUDGET_APP_V3\BUILD\_DEPS\IMGUI-SUBBUILD\CMAKEFILES\D85C2F3CCA90D2E8BB24FAA01855A997\IMGUI-POPULATE-COMPLETE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/imgui-subbuild/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/imgui-subbuild/CMakeFiles/Debug/imgui-populate-complete
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/Debug/imgui-populate-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\DEV\BUDGET_APP\BUDGET_APP\BUDGET_APP_V3\BUILD\_DEPS\IMGUI-SUBBUILD\CMAKEFILES\8B23621D5559F8394ABFD23DFECA18D9\IMGUI-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\DEV\BUDGET_APP\BUDGET_APP\BUDGET_APP_V3\BUILD\_DEPS\IMGUI-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/dev/budget_app/budget_app/budget_app_v3/build/_deps/imgui-subbuild -BC:/dev/budget_app/budget_app/budget_app_v3/build/_deps/imgui-subbuild --check-stamp-file C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/imgui-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

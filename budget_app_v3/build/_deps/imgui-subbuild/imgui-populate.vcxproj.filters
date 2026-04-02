@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\dev\budget_app\budget_app\budget_app_v3\build\_deps\imgui-subbuild\CMakeFiles\2b055a38d9043c6a0fc52818e3dafd58\imgui-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\budget_app\budget_app\budget_app_v3\build\_deps\imgui-subbuild\CMakeFiles\2b055a38d9043c6a0fc52818e3dafd58\imgui-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\budget_app\budget_app\budget_app_v3\build\_deps\imgui-subbuild\CMakeFiles\2b055a38d9043c6a0fc52818e3dafd58\imgui-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\budget_app\budget_app\budget_app_v3\build\_deps\imgui-subbuild\CMakeFiles\2b055a38d9043c6a0fc52818e3dafd58\imgui-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\budget_app\budget_app\budget_app_v3\build\_deps\imgui-subbuild\CMakeFiles\2b055a38d9043c6a0fc52818e3dafd58\imgui-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\budget_app\budget_app\budget_app_v3\build\_deps\imgui-subbuild\CMakeFiles\2b055a38d9043c6a0fc52818e3dafd58\imgui-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\budget_app\budget_app\budget_app_v3\build\_deps\imgui-subbuild\CMakeFiles\2b055a38d9043c6a0fc52818e3dafd58\imgui-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\budget_app\budget_app\budget_app_v3\build\_deps\imgui-subbuild\CMakeFiles\2b055a38d9043c6a0fc52818e3dafd58\imgui-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\budget_app\budget_app\budget_app_v3\build\_deps\imgui-subbuild\CMakeFiles\d85c2f3cca90d2e8bb24faa01855a997\imgui-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\budget_app\budget_app\budget_app_v3\build\_deps\imgui-subbuild\CMakeFiles\8b23621d5559f8394abfd23dfeca18d9\imgui-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\budget_app\budget_app\budget_app_v3\build\_deps\imgui-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\dev\budget_app\budget_app\budget_app_v3\build\_deps\imgui-subbuild\CMakeFiles\imgui-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{58414B45-2EBF-3F4A-92A3-4C7AA718CB44}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

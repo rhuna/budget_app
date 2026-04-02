@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\dev\budget_app\budget_app\budget_app_v3\build\_deps\imgui-subbuild\CMakeFiles\8b23621d5559f8394abfd23dfeca18d9\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{58414B45-2EBF-3F4A-92A3-4C7AA718CB44}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

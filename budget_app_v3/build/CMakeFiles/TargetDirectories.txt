@@ -1,0 +1,13 @@
+C:/dev/budget_app/budget_app/budget_app_v3/build/CMakeFiles/imgui_lib.dir
+C:/dev/budget_app/budget_app/budget_app_v3/build/CMakeFiles/BudgetPilot.dir
+C:/dev/budget_app/budget_app/budget_app_v3/build/CMakeFiles/INSTALL.dir
+C:/dev/budget_app/budget_app/budget_app_v3/build/CMakeFiles/ALL_BUILD.dir
+C:/dev/budget_app/budget_app/budget_app_v3/build/CMakeFiles/ZERO_CHECK.dir
+C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/glfw-build/CMakeFiles/uninstall.dir
+C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/glfw-build/CMakeFiles/INSTALL.dir
+C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/glfw-build/CMakeFiles/ALL_BUILD.dir
+C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/glfw-build/src/CMakeFiles/glfw.dir
+C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/glfw-build/src/CMakeFiles/update_mappings.dir
+C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/glfw-build/src/CMakeFiles/INSTALL.dir
+C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/json-build/CMakeFiles/INSTALL.dir
+C:/dev/budget_app/budget_app/budget_app_v3/build/_deps/json-build/CMakeFiles/ALL_BUILD.dir
