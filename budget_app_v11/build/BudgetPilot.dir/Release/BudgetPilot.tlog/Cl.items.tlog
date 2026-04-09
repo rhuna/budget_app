@@ -1,0 +1,8 @@
+C:\dev\budget_app\budget_app\budget_app_v11\src\main.cpp;C:\dev\budget_app\budget_app\budget_app_v11\build\BudgetPilot.dir\Release\main.obj
+C:\dev\budget_app\budget_app\budget_app_v11\src\app.cpp;C:\dev\budget_app\budget_app\budget_app_v11\build\BudgetPilot.dir\Release\app.obj
+C:\dev\budget_app\budget_app\budget_app_v11\src\storage.cpp;C:\dev\budget_app\budget_app\budget_app_v11\build\BudgetPilot.dir\Release\storage.obj
+C:\dev\budget_app\budget_app\budget_app_v11\src\advice_engine.cpp;C:\dev\budget_app\budget_app\budget_app_v11\build\BudgetPilot.dir\Release\advice_engine.obj
+C:\dev\budget_app\budget_app\budget_app_v11\src\financial_engine.cpp;C:\dev\budget_app\budget_app\budget_app_v11\build\BudgetPilot.dir\Release\financial_engine.obj
+C:\dev\budget_app\budget_app\budget_app_v11\src\automation_engine.cpp;C:\dev\budget_app\budget_app\budget_app_v11\build\BudgetPilot.dir\Release\automation_engine.obj
+C:\dev\budget_app\budget_app\budget_app_v11\src\risk_engine.cpp;C:\dev\budget_app\budget_app\budget_app_v11\build\BudgetPilot.dir\Release\risk_engine.obj
+C:\dev\budget_app\budget_app\budget_app_v11\src\execution_engine.cpp;C:\dev\budget_app\budget_app\budget_app_v11\build\BudgetPilot.dir\Release\execution_engine.obj

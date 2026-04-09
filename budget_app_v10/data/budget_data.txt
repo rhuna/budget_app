@@ -1,0 +1,4 @@
+META|0|0|0|0|0|4|2026|1.87|2|0|6
+PAY|Paycheck Window 1|1|15|0|0|0|0|0
+PAY|Paycheck Window 2|16|30|0|0|0|0|0
+HISTORY|2026-04|0|0|0|0|0|0

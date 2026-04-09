@@ -1,0 +1,8 @@
+META|0|0|0|0|0|4|2026|2.29|2|0|6
+INCOME|primary paycheck|7000|2|1|31|1
+BILL|mortgage|2900|2|1|1|0
+BILL|utilities|500|2|16|1|0
+BILL|car insurance|270|2|18|1|0
+PAY|Paycheck Window 1|1|15|0|0|0|0|0
+PAY|Paycheck Window 2|16|30|0|0|0|0|0
+HISTORY|2026-04|7000|3670|3330|0|0|0
