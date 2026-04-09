@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\dev\budget_app\budget_app\budget_app_v7\build\CMakeFiles\0cfecb3699034d28dc88a298d546ffaf\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BA001606-829B-32E1-830F-3877755F24B4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

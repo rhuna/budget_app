@@ -1,0 +1,165 @@
+{
+  "bills": [
+    {
+      "amount": 2900.0,
+      "autopay": true,
+      "dueDay": 1,
+      "essential": true,
+      "frequency": 2,
+      "name": "Rent"
+    },
+    {
+      "amount": 80.0,
+      "autopay": true,
+      "dueDay": 18,
+      "essential": true,
+      "frequency": 2,
+      "name": "Internet"
+    },
+    {
+      "amount": 400.0,
+      "autopay": true,
+      "dueDay": 21,
+      "essential": true,
+      "frequency": 2,
+      "name": "Phone"
+    },
+    {
+      "amount": 270.0,
+      "autopay": true,
+      "dueDay": 25,
+      "essential": true,
+      "frequency": 2,
+      "name": "Car Insurance"
+    },
+    {
+      "amount": 300.0,
+      "autopay": false,
+      "dueDay": 20,
+      "essential": true,
+      "frequency": 2,
+      "name": "Utilities"
+    },
+    {
+      "amount": 410.0,
+      "autopay": false,
+      "dueDay": 15,
+      "essential": true,
+      "frequency": 2,
+      "name": "credit cards"
+    },
+    {
+      "amount": 900.0,
+      "autopay": false,
+      "dueDay": 30,
+      "essential": true,
+      "frequency": 2,
+      "name": "car payment"
+    },
+    {
+      "amount": 40.0,
+      "autopay": false,
+      "dueDay": 1,
+      "essential": true,
+      "frequency": 0,
+      "name": "gas"
+    },
+    {
+      "amount": 700.0,
+      "autopay": false,
+      "dueDay": 3,
+      "essential": true,
+      "frequency": 2,
+      "name": "wife allowance"
+    },
+    {
+      "amount": 500.0,
+      "autopay": false,
+      "dueDay": 11,
+      "essential": true,
+      "frequency": 2,
+      "name": "savings"
+    }
+  ],
+  "checkingBalance": 900.0,
+  "debtBalance": 2800.0,
+  "emergencyFundBalance": 0.0,
+  "goals": [
+    {
+      "currentBalance": 1200.0,
+      "monthlyContribution": 400.0,
+      "name": "Emergency Fund",
+      "targetBalance": 5000.0
+    },
+    {
+      "currentBalance": 300.0,
+      "monthlyContribution": 100.0,
+      "name": "Car Repair Fund",
+      "targetBalance": 1000.0
+    }
+  ],
+  "incomes": [
+    {
+      "afterTax": true,
+      "amount": 800.0,
+      "frequency": 2,
+      "name": "Partner paycheck",
+      "payDay1": 8,
+      "payDay2": 22
+    },
+    {
+      "afterTax": true,
+      "amount": 7000.0,
+      "frequency": 2,
+      "name": "Belvedere",
+      "payDay1": 1,
+      "payDay2": 15
+    }
+  ],
+  "month": 4,
+  "monthlyTaxReserve": 0.0,
+  "oneTimeExpenses": [
+    {
+      "active": true,
+      "amount": 40.0,
+      "dueDay": 12,
+      "name": "Birthday gift"
+    },
+    {
+      "active": true,
+      "amount": 85.0,
+      "dueDay": 28,
+      "name": "School fee"
+    }
+  ],
+  "paycheckCount": 1,
+  "savingsGoal": 10000.0,
+  "uiScale": 1.7100000381469727,
+  "variableExpenses": [
+    {
+      "actual": 320.0,
+      "essential": true,
+      "monthlyPlan": 600.0,
+      "name": "Groceries"
+    },
+    {
+      "actual": 145.0,
+      "essential": true,
+      "monthlyPlan": 280.0,
+      "name": "Gas"
+    },
+    {
+      "actual": 60.0,
+      "essential": false,
+      "monthlyPlan": 180.0,
+      "name": "Eating Out"
+    },
+    {
+      "actual": 35.0,
+      "essential": false,
+      "monthlyPlan": 140.0,
+      "name": "Household / Misc"
+    }
+  ],
+  "year": 2026
+}

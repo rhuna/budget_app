@@ -1,0 +1,22 @@
+META|0|0|0|0|0|4|2026|1.25|2|0
+INCOME|Main paycheck|1500|0|1|15|1
+INCOME|Partner paycheck|200|0|8|22|1
+BILL|Rent|2900|2|1|1|1
+BILL|Electric|300|2|14|1|1
+BILL|Internet|0|2|18|1|1
+BILL|Phone|400|2|21|1|1
+BILL|Car Insurance|270|2|25|1|1
+BILL|Streaming|25|2|26|0|1
+VAR|Groceries|600|320|1
+VAR|Gas|280|145|1
+VAR|Eating Out|0|0|0
+VAR|Household / Misc|140|35|0
+GOAL|Emergency Fund|400|1200|5000
+GOAL|Car Repair Fund|100|300|1000
+ONE|Birthday gift|0|12|1
+ONE|School fee|85|28|1
+TX|2026-04-02|Groceries|Walmart|92.15|0
+TX|2026-04-03|Gas|Shell|34.2|0
+TX|2026-04-05|Paycheck|Side work|250|1
+PAY|Paycheck Window 1|1|7|0|0|0|0|0
+PAY|Paycheck Window 2|8|14|0|0|0|0|0

@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/dev/budget_app/budget_app/budget_app_v6/build/cmake_install.cmake",
+		"C:/dev/budget_app/budget_app/budget_app_v6/build/third_party/glfw/cmake_install.cmake",
+		"C:/dev/budget_app/budget_app/budget_app_v6/build/third_party/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

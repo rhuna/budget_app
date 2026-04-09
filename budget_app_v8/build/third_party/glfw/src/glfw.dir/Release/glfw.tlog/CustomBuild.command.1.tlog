@@ -1,0 +1,10 @@
+^C:\DEV\BUDGET_APP\BUDGET_APP\BUDGET_APP_V8\THIRD_PARTY\GLFW\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/dev/budget_app/budget_app/budget_app_v8 -BC:/dev/budget_app/budget_app/budget_app_v8/build --check-stamp-file C:/dev/budget_app/budget_app/budget_app_v8/build/third_party/glfw/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

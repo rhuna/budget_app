@@ -1,0 +1,6 @@
+C:\dev\budget_app\budget_app\budget_app_v9\third_party\imgui\imgui.cpp;C:\dev\budget_app\budget_app\budget_app_v9\build\imgui_lib.dir\Release\imgui.obj
+C:\dev\budget_app\budget_app\budget_app_v9\third_party\imgui\imgui_draw.cpp;C:\dev\budget_app\budget_app\budget_app_v9\build\imgui_lib.dir\Release\imgui_draw.obj
+C:\dev\budget_app\budget_app\budget_app_v9\third_party\imgui\imgui_tables.cpp;C:\dev\budget_app\budget_app\budget_app_v9\build\imgui_lib.dir\Release\imgui_tables.obj
+C:\dev\budget_app\budget_app\budget_app_v9\third_party\imgui\imgui_widgets.cpp;C:\dev\budget_app\budget_app\budget_app_v9\build\imgui_lib.dir\Release\imgui_widgets.obj
+C:\dev\budget_app\budget_app\budget_app_v9\third_party\imgui\backends\imgui_impl_glfw.cpp;C:\dev\budget_app\budget_app\budget_app_v9\build\imgui_lib.dir\Release\imgui_impl_glfw.obj
+C:\dev\budget_app\budget_app\budget_app_v9\third_party\imgui\backends\imgui_impl_opengl3.cpp;C:\dev\budget_app\budget_app\budget_app_v9\build\imgui_lib.dir\Release\imgui_impl_opengl3.obj

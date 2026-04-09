@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\dev\budget_app\budget_app\budget_app_v6\build\CMakeFiles\c49bdfadf64bb123a6d55b624e367bec\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\budget_app\budget_app\budget_app_v6\third_party\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\dev\budget_app\budget_app\budget_app_v6\third_party\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\dev\budget_app\budget_app\budget_app_v6\third_party\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="C:\dev\budget_app\budget_app\budget_app_v6\build\third_party\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6E7BA84D-8259-3151-AE0B-271E0971C18B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{434302FE-30A4-3B84-ADD1-97DA76C1A4C6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

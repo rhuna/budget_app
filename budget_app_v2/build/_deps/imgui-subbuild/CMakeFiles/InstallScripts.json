@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"C:/dev/budget_app/budget_app_v2/build/_deps/imgui-subbuild/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
